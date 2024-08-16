@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SqlCollection>
+	<Sql key="U1" value="SELECT * FROM [dbo].[Student] WHERE [Age] = @Age" />
+</SqlCollection>
